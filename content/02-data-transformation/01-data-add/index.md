@@ -2,7 +2,7 @@
 
 ### Import Notebook into Dynatrace
 
-[Notebook](https://github.com/popecruzdt/dt-k8s-otel-o11y-logs/blob/code-spaces/dt-k8s-otel-o11y-logs_dt_notebook.json)
+[Notebook](https://github.com/jwood1985/enablement-dql301/blob/main/assets/json/DQL%20301%20-%20WWSE%20Professors%20Enablement.json)
 
 ### Including Raw Data with `data`
 The `data` command provides an easy way to add any data you care about into a Notebook, Dashboard, Workflow, or any other component that uses DQL. This is most useful when pulling in data from other sources (i.e., Excel, CSV, etc.) or consolidating data from another query into a DQL statement. 
