@@ -12,7 +12,7 @@ Dynatrace DTU lab guide for DQL 301
 
 Clone the repo:
 ```sh
-git clone [https://github.com/jwood1985/enablement-dql301.git](https://github.com/jwood1985/enablement-dql301.git)
+git clone https://github.com/jwood1985/enablement-dql301.git
 ```
 
 Install Node if not already installed:
