@@ -1,3 +1,4 @@
+
 # enablement-dql301
 Dynatrace DTU lab guide for DQL 301
 
@@ -12,11 +13,17 @@ Dynatrace DTU lab guide for DQL 301
 
 Clone the repo:
 ```sh
-git clone https://github.com/jwood1985/enablement-dql301.git
+git clone https://github.com/dynatrace-wwse/enablement-dql-301.git
 ```
 
 Install Node if not already installed:
 [Download Node.js](https://nodejs.org/en/download/package-manager)
+
+
+Move to the lab-guide directory:
+```sh
+cd lab-guide
+```
 
 Run the generator command:
 ```sh
