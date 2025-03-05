@@ -1,5 +1,5 @@
-# dt-k8s-otel-o11y-dtu
-dynatrace opentelemetry ingest for kubernetes using opentelemetry collector dtu lab guide
+# enablement-dql301
+Dynatrace DTU lab guide for DQL 301
 
 ---
 
@@ -12,7 +12,7 @@ dynatrace opentelemetry ingest for kubernetes using opentelemetry collector dtu 
 
 Clone the repo:
 ```sh
-git clone https://github.com/popecruzdt/dt-k8s-otel-o11y-dtu.git
+git clone https://github.com/jwood1985/enablement-dql301.git
 ```
 
 Install Node if not already installed:
